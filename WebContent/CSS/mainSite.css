@@ -1,0 +1,21 @@
+.input{
+	width: 50%;
+    height: 120px;
+	font-size:40px;
+} 
+
+.labelText{
+	font-size:40px;
+}
+
+.submitButton{
+	position:relative;
+	height: 100%;
+	width:10%;
+	top:35px;
+}
+	
+.formBox{
+	 
+	height:20%
+}
